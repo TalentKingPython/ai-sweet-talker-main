@@ -26,7 +26,7 @@
 
 1. Git clone repository.
 
-	git clone https://github.com/e-m3din4/ai-sweet-talker
+	git clone https://github.com/TalentKingPython/ai-sweet-talker
 
 2. Navigate to AI-Sweet-talker directory
 
